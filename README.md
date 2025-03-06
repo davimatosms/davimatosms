@@ -1,14 +1,7 @@
 ## Olá, eu sou o Davi!
 
-- 🔭 I’m currently working on Drop RP
 - 🌱 I’m currently learning C#
 - 💬 Ask me about aliens..
-
-<div>
-  <a href="https://github.com/davimatosms">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davimatosms&show_icons=true&theme=red&include_all_comits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davimatosms&layout=compact&langs_count=16&theme=red"/>
-</div>
 
 
 <div align="left">
