@@ -1,6 +1,6 @@
 ## Olá, eu sou o Davi!
 
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C# and Java
 - 💬 Ask me about aliens..
 
 
