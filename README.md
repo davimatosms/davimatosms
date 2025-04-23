@@ -18,6 +18,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
+
+###
+
+![ProfileDavi](https://github.com/user-attachments/assets/9752d5b3-f535-468e-b620-4d56cb0e9a10)
+
+
 ###
 
 <div align="left">
