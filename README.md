@@ -1,4 +1,4 @@
-## Olá, eu sou o Davi!
+## Hi, I'm Davi!
 
 - 🌱 I’m currently learning C# and Java
 - 💬 Ask me about aliens..
