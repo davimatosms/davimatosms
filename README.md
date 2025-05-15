@@ -19,9 +19,7 @@
 </div>
 
 
-###
 
-![ProfileDavi](https://github.com/user-attachments/assets/9752d5b3-f535-468e-b620-4d56cb0e9a10)
 
 
 ###
