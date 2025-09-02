@@ -20,7 +20,7 @@
 Here are some of the technologies and tools I work with in backend development:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,nodejs,aws,mysql,git,github,vscode,react,c#" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,nodejs,mysql,git,github,vscode,react,c#" />
 </div>
 
 ---
