@@ -1,25 +1,34 @@
-## Hi, I'm Davi!
 
-- 🌱 I’m currently learning C# and Java
-- 💬 Ask me about aliens..
+<img width="1584" height="396" alt="FUNDOLINKEDIN (4)" src="https://github.com/user-attachments/assets/325e4bac-2f0a-4310-a559-852514713900" />
+ 
 
+# Hi, I'm Davi Matos!
 
+### Backend Developer
 
+---
 
+## About Me
 
+- I have experience in **Java, Spring Boot, REST APIs, Microservices...**.
+- Always looking for new challenges and learning opportunities.
 
+---
 
+## My Skills
 
-###
+Here are some of the technologies and tools I work with in backend development:
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,nodejs,aws,mysql,git,github,vscode,react,c#" />
 </div>
 
-###
-
-<br clear="both">
+---
 
 <img src="https://raw.githubusercontent.com/davimatosms/davimatosms/output/snake.svg" alt="Snake animation" />
+
+
+
+
+
+
